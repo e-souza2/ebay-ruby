@@ -1,4 +1,4 @@
-# ebay-ruby
+# ebay-api
 
 A modern Ruby gem for the eBay REST APIs. Supports the Browse API, Finding API, and Taxonomy API with OAuth 2.0 authentication.
 
@@ -7,7 +7,7 @@ A modern Ruby gem for the eBay REST APIs. Supports the Browse API, Finding API, 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'ebay-ruby'
+gem 'ebay-api'
 ```
 
 And then execute:
@@ -19,7 +19,7 @@ bundle install
 Or install it yourself:
 
 ```bash
-gem install ebay-ruby
+gem install ebay-api
 ```
 
 ## Configuration
@@ -147,15 +147,15 @@ end
 ## Development
 
 ```bash
-git clone https://github.com/esouza/ebay-ruby.git
-cd ebay-ruby
+git clone https://github.com/ESouza/ebay-api.git
+cd ebay-api
 bundle install
 bundle exec rspec
 ```
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/esouza/ebay-ruby. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Bug reports and pull requests are welcome on GitHub at https://github.com/ESouza/ebay-api. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 

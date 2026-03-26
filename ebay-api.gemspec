@@ -1,14 +1,14 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = 'ebay-ruby'
+  spec.name          = 'ebay-api'
   spec.version       = "0.1.0"
   spec.authors       = ['Eduardo Souza']
   spec.email         = ['eduardo@eduardosouza.com']
 
   spec.summary       = 'Ruby gem for the eBay REST APIs'
   spec.description   = 'Ruby gem for integrating with eBay REST APIs. Supports Browse API, Finding API, and Taxonomy API with OAuth 2.0 authentication.'
-  spec.homepage      = 'https://github.com/esouza/ebay-ruby'
+  spec.homepage      = 'https://github.com/ESouza/ebay-api'
   spec.license       = 'MIT'
   spec.required_ruby_version = '>= 2.7.0'
 

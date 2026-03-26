@@ -1,6 +1,6 @@
 # Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/esouza/ebay-ruby.
+Bug reports and pull requests are welcome on GitHub at https://github.com/ESouza/ebay-api.
 
 ## Development
 
