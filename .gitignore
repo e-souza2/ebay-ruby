@@ -1,0 +1,6 @@
+spec/examples.txt
+.env
+Gemfile.lock
+*.gem
+pkg/
+tmp/
